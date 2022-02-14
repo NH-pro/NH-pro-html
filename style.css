@@ -1,1 +1,27 @@
+body{
+  background-color: #99ffcc;
+  margin: 10% 20%;
+  font-family: georgia, helvetica, sans-serif;
+}
 
+.pro-exp{
+  border-top: 2px solid grey;
+}
+
+.cd{
+  background-color: lightgrey;
+  border: 5px solid grey;
+  padding-left:10px;
+  padding-right:10px;
+}
+
+.pl{
+  background-color: lightgrey;
+  border: 5px solid grey;
+  padding-left:10px;
+  padding-right:10px;
+}
+
+.edu-exp{
+  border-top: 2px solid grey;
+}
