@@ -8,7 +8,7 @@ body{
 img{
   width: 80%;
   border: 5px solid grey;
-  margin-left: 10px;
+  margin-left: 15px;
 }
 
 .sidebar{
@@ -21,6 +21,9 @@ img{
   padding-top: 35px;
   background-color: rgba(137,199,168,.75);
   border-left: 5px solid grey;
+}
+
+.me{
   text-align: center;
 }
 
