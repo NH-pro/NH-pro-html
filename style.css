@@ -5,15 +5,24 @@ body{
   font-family: georgia, helvetica, sans-serif;
 }
 
+.header{
+  clear: left;
+  text-align: center;
+  background-color: #e7fbe9;
+  border: 5px solid grey;
+  padding-left:10px;
+  padding-right:10px;
+}
+
 img{
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-  width: 50%;
-  border: 5px solid grey
+  width: 30%;
+  border: 5px solid grey;
+  float: right;
+  margin-bottom: 3%;
 }
 
 .pro-exp{
+  clear: both;
   text-align: center;
   background-color: #f1efe5;
   border: 5px solid grey;
