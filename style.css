@@ -2,7 +2,7 @@ body{
   background-image: url("https://www.iwantwallpaper.co.uk/images/grandeco-botanical-fruit-flower-pattern-wallpaper-tropical-floral-motif-ba2001-p3613-8596_image.jpg");
   background-color: #99ffcc;
   margin: auto;
-  max-width: max-content;
+  max-width: 600px;
   font-family: georgia, helvetica, sans-serif;
 }
 
@@ -38,15 +38,14 @@ img{
 }
 
 .sidebar{
-  height:100%;
+  max-height: 1080px;
   width:200px;
   position: fixed;
-  float: right;
-  right: 0;
+  right: 10%;
   top: 0;
-  padding-top: 35px;
-  background-color: rgba(137,199,168,.75);
-  border-left: 5px solid grey;
+  background-color: #b8e2cd;
+  border: 5px solid grey;
+  margin-top: 100px;
 }
 
 .me{
@@ -57,9 +56,8 @@ img{
 
 .kooky{
   text-align: center;
-  padding-top: 20px;
   border-top: 5px solid grey;
-  padding-right: 5px;
+  padding-right: 15px;
   padding-left: 5px;
 }
 
