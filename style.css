@@ -2,16 +2,16 @@ body{
   background-image: url("https://www.iwantwallpaper.co.uk/images/grandeco-botanical-fruit-flower-pattern-wallpaper-tropical-floral-motif-ba2001-p3613-8596_image.jpg");
   background-color: #99ffcc;
   margin: auto;
-  max-width: 600px;
+  max-width: 850px;
   font-family: georgia, helvetica, sans-serif;
 }
 
 .photo{
-  width: 35%;
+  width: 25%;
   border: 5px solid grey;
-  margin-right: 20px;
-  margin-top: 110px;
+  margin-top: 100px;
   float: right;
+  margin-right: 240px;
 }
 
 .kphoto{
@@ -31,24 +31,25 @@ body{
 
 .define{
   position:absolute;
-  clear: left;
   display: table;
   border: 5px solid grey;
   margin-top: 80px;
   background-color: #fcdec6;
-  padding-right: 329px;
+  padding-right: 145px;
   padding-bottom: 69px;
   padding-left: 50px;
   padding-top: 26px;
+  margin-right: 220px;
   
 }
 
 .me{
 text-align: center;
+margin-right: 220px;
 }
 
 .secret{
-  padding-left: 415px;
+  padding-left: 435px;
   position: absolute;
   margin-top: 331px;
   z-index: 1;
@@ -71,19 +72,16 @@ text-align: center;
 }
 
 .sidebar{
-  max-height: 1080px;
   width:200px;
   position: fixed;
-  right:20px;
-  top: 0;
   background-color: #b8e2cd;
   border: 5px solid grey;
-  margin-top: 415px;
+  margin-left: 640px;
+  margin-top: 95px
 }
 
 .kooky{
   text-align: center;
-  
   padding-right: 15px;
   padding-left: 5px;
 }
@@ -97,6 +95,7 @@ text-align: center;
   max-width: max-content;
   margin: auto;
   margin-top: 50px;
+  margin-left: 190px;
   
 }
 
@@ -105,6 +104,7 @@ text-align: center;
   border: 5px solid grey;
   padding-left: 20px;
   padding-right: 20px;
+  margin-right: 220px;
 }
 
 .pl{
@@ -112,6 +112,7 @@ text-align: center;
   border: 5px solid grey;
   padding-left: 20px;
   padding-right: 20px;
+  margin-right: 220px;
 }
 
 .edu-exp{
