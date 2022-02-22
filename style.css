@@ -78,7 +78,7 @@ text-align: center;
   top: 0;
   background-color: #b8e2cd;
   border: 5px solid grey;
-  margin-top: 300px;
+  margin-top: 415px;
 }
 
 .kooky{
@@ -103,15 +103,15 @@ text-align: center;
 .cd{
   background-color: #f1efe5;
   border: 5px solid grey;
-  padding-left:10px;
-  padding-right:10px;
+  padding-left: 20px;
+  padding-right: 20px;
 }
 
 .pl{
   background-color: #f1efe5;
   border: 5px solid grey;
-  padding-left:10px;
-  padding-right:10px;
+  padding-left: 20px;
+  padding-right: 20px;
 }
 
 .edu-exp{
@@ -127,6 +127,6 @@ text-align: center;
 .hamline{
   background-color: #fde5e5;
   border: 5px solid grey;
-  padding-left:10px;
-  padding-right:10px;  
+  padding-left: 20px;
+  padding-right: 20px; 
 }
