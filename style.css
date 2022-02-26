@@ -50,9 +50,9 @@ margin-right: 220px;
 }
 
 .secret{
-  padding-left: 435px;
+  padding-left: 130px;
   position: absolute;
-  margin-top: 333px;
+  margin-top: 310px;
   z-index: 1;
 }
 
@@ -93,7 +93,6 @@ margin-right: 220px;
   padding-left:30px;
   padding-right:30px;
   max-width: max-content;
-  margin: auto;
   margin-top: 50px;
   margin-left: 190px;
   min-width: max-content;
@@ -125,7 +124,7 @@ margin-right: 220px;
   padding-left:30px;
   padding-right: 30px;
   max-width: max-content;
-  margin: auto;
+  margin-left: 345px;
   min-width: max-content;
   
 }
